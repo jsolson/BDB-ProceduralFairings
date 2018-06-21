@@ -17,6 +17,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 http://creativecommons.org/licenses/by-nc-sa/4.0/
 
 
+Version 0.1.3
+Updated for KSP 1.4.3
+Separate parts for Conic and Egg fairing removed. Uses KSP texture switching.
+Firespitter dependency removed.
 
 Version 0.1.2
 Added Saturn 3.75 Interstage Adapter. Thanks @Komodo
